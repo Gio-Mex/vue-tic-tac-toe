@@ -35,4 +35,4 @@ First player to get 3 in a row wins, and stats will be updated.
 Click on Reset button to start a new game, or on Reset points button to reset all stats.
 
 ## Demo
-Try the app [here](https://tictactoe-vue.netlify.app).
+Try the app [here](https://vue-tictactoe-game.netlify.app).
