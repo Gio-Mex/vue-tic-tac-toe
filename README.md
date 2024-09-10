@@ -1,6 +1,6 @@
 # Vue.js Tic Tac Toe
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=JavaScript)
-![Static Badge](https://img.shields.io/badge/VUE-black?style=for-the-badge&logo=Vue)
+![Static Badge](https://img.shields.io/badge/VUE.js-black?style=for-the-badge&logo=Vue.js)
 
 ## Description
 
@@ -30,9 +30,9 @@ Now run `ng serve` for a dev server. Navigate to http://localhost:5173/
  as specified in package.json. 
 
 ## Usage 
-Select a cell by clicking on it, first player is X and second player is O. That cell cannot be selected again.
-First player to get 3 in a row wins.
-Click on Reset button to start a new game.
+Select a cell by clicking on it, first player is X and second player is O. That cell cannot be selected again.  
+First player to get 3 in a row wins, and stats will be updated.  
+Click on Reset button to start a new game, or on Reset points button to reset all stats.
 
 ## Demo
 Try the app [here](https://tictactoe-vue.netlify.app).
