@@ -49,7 +49,6 @@ function reset() {
   player.value = "X";
   winner.value = "";
   endGame.value = false;
-  $emit("end-game");
 }
 </script>
 

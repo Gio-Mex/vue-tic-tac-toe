@@ -9,10 +9,12 @@ let xCount = ref(0);
 let oCount = ref(0);
 let drawCount = ref(0);
 
+//End game handler
 function handleEndGame(winner) {
   player.value = winner;
   player.value ? (endGame.value = true) : (endGame.value = false);
 
+  // Stats counters
   if (winner === "X") {
     xCount.value++;
   } else if (winner === "O") {
